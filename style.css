@@ -1,0 +1,41 @@
+*
+{
+    background-color: #1A2130;
+}
+
+body 
+{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+}
+
+.container
+{  
+    
+    text-align: center;  
+    
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 20px;
+
+   
+}
+
+.dropdown {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#imageSelector
+{
+    background-color: bisque;
+}
